@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,java.io.PrintStream,printf,org.openqa.selenium.edge.EdgeDriverService,createDefaultService" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="nx-radio-group" />
+            <item index="7" class="java.lang.String" itemvalue="nx-dropdown-item" />
+            <item index="8" class="java.lang.String" itemvalue="nx-radio" />
+            <item index="9" class="java.lang.String" itemvalue="nx-number" />
+            <item index="10" class="java.lang.String" itemvalue="nx-number-stepper" />
+            <item index="11" class="java.lang.String" itemvalue="nx-dropdown" />
+            <item index="12" class="java.lang.String" itemvalue="nx-comparison-table-flex-row" />
+            <item index="13" class="java.lang.String" itemvalue="nx-comparison-table__row" />
+            <item index="14" class="java.lang.String" itemvalue="comparision-table-cell" />
+            <item index="15" class="java.lang.String" itemvalue="nxt-shopping-cart" />
+            <item index="16" class="java.lang.String" itemvalue="nxt-shopping-cart-row" />
+            <item index="17" class="java.lang.String" itemvalue="nxt-price-tag" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
